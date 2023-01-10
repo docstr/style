@@ -1,7 +1,9 @@
 <h1> Hi there! </h1>
 <p> Below I will leave links to my social networks, where I share information about IT and my achievements </p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/eg4q8ka6zQuQ2qgKwe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/css-html-indonesiasiapkerja-eg4q8ka6zQuQ2qgKwe">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="100"/>
+</div>
 
 
 <div id="badges">
