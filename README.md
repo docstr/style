@@ -1,9 +1,8 @@
 <h1> Hi there! </h1>
 <p> Below I will leave links to my social networks, where I share information about IT and my achievements </p>
 
-<div id="header" align="center">
 <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
-</div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/oliya-rakhmatova-14a48a204/">
