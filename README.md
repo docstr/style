@@ -1,4 +1,5 @@
 <h1> Hi there! </h1>
+<p> Below I will leave links to my social networks, where I share information about IT and my achievements </p>
 
 <div id="header" align="center">
   <img src="https://twitter.com/SpaceCatPics/status/1153654129224507392" width="100"/>
