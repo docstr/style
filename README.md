@@ -2,7 +2,7 @@
 <p> Below I will leave links to my social networks, where I share information about IT and my achievements </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="400"/>
 </div>
 
 
