@@ -2,7 +2,7 @@
 <p> Below I will leave links to my social networks, where I share information about IT and my achievements </p>
 
 <div id="header" align="center">
-  <img src="https://twitter.com/SpaceCatPics/status/1153654129224507392" width="100"/>
+<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 </div>
 
 <div id="badges">
