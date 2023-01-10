@@ -18,4 +18,7 @@
   </a>
 </div>
 
-<img src="https://oliya.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="http://oliya-cv.tj/=flat-square&color=blue" alt=""/>
+
+
+http://oliya-cv.tj/
